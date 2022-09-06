@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>se.nackademin</groupId>
-  <artifactId>alm_gruppuppgift</artifactId>
+  <artifactId>alm_individuelluppgift</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>alm_gruppuppgift</name>
+  <name>alm_individuelluppgift</name>
   <!-- FIXME change it to the project's website -->
   <url>https://www.example.com</url>
 
@@ -22,7 +22,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/robmndz/alm_gruppuppgift</url>
+      <url>https://maven.pkg.github.com/robmndz/alm_individuelluppgift</url>
     </repository>
   </distributionManagement>
 
