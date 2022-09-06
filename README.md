@@ -5,9 +5,9 @@
 - [Roberto Mendez](https://github.com/robmndz)
 
 ## Krav:
-* [] Protected branches för att upprättahålla regler för branchhantering och pull requests
-* [] Publicerar Artifakter till GitHub Packages, maven och docker
-* [] Test Automatisering utöver enhetstester
-* [] Deploy till Azure (Enligt Continuous Delivery)
+* [x] Protected branches för att upprättahålla regler för branchhantering och pull requests
+* [x] Publicerar Artifakter till GitHub Packages, maven och docker
+* [x] Test Automatisering utöver enhetstester
+* [x] Deploy till Azure (Enligt Continuous Delivery)
 
 
